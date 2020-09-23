@@ -31,7 +31,7 @@ namespace GeradorPerfilTerreno.Operacoes
                     {
                         using (myStream)
                         {
-                            //nome do arquivo
+                            //nome do arquivo jjjjjjjjj
                             string nomeArquivo = caixaDialogo.FileName;
                             listaPontos = pegaDadosExcel(nomeArquivo, fatorAmpliacaoZ);
                         }
