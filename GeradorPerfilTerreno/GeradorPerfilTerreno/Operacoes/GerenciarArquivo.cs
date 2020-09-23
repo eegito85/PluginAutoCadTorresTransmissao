@@ -22,7 +22,7 @@ namespace GeradorPerfilTerreno.Operacoes
             caixaDialogo.Filter = "Excel files (*.xlsx)|*.xlsx|Excel macro files (*.xlsm)|*.xlsm";
             caixaDialogo.FilterIndex = 1;
             caixaDialogo.RestoreDirectory = true;
-            //caixa de diálogo
+            //caixa de diálogo ooooiiiii
             if (caixaDialogo.ShowDialog() == DialogResult.OK)
             {
                 try
